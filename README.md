@@ -30,3 +30,7 @@ Sumanta | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learn
 
 
 Contact me for Data Science Project Collaborations
+
+# References
+1. Topic modelling, wikipedia.org- https://en.wikipedia.org/wiki/Topic_model#:~:text=In%20machine%20learning%20and%20natural,structures%20in%20a%20text%20body.
+2. Analytical Vidya- https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24
